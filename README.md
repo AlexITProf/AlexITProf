@@ -9,8 +9,8 @@ https://t.me/alex_it_prof<br>
 https://twitter.com/AlexITPROF1<br>
 https://www.instagram.com/alex_it_prof/<br>
 
-
-
 ![footer](https://capsule-render.vercel.app/api?section=footer&color=gradient&custom)
+
+![Snake animation]( https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg )
 
 

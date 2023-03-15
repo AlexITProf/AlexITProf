@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?color=gradient&custom&text=Hello%World!&animation=blinking)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&custom&text=Hello%World!&animation=scaleIn)
 
 <h2>Allow me to introduce myself:</h2>
 
@@ -9,8 +9,8 @@ https://t.me/alex_it_prof<br>
 https://twitter.com/AlexITPROF1<br>
 https://www.instagram.com/alex_it_prof/<br>
 
-![footer](https://capsule-render.vercel.app/api?section=footer&color=gradient&custom)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexITProf&show_icons=true&theme=radical)
 
-![Snake animation]( https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg )
+![footer](https://capsule-render.vercel.app/api?type=waving&section=footer&color=gradient&custom&text=Welcome!&animation=scaleIn)
 
 

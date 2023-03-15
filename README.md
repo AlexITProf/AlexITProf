@@ -3,7 +3,7 @@
 Allow me to introduce myself:
 
 
-🧰VALIDATOR 🦉
+🧰VALIDATOR🦉
 
 🖥️NODERUNNER🐛
 
@@ -13,4 +13,4 @@ https://t.me/alex_it_prof
 
 https://twitter.com/AlexITPROF1
 
-https://github.com/AlexITProf
+https://www.instagram.com/alex_it_prof/

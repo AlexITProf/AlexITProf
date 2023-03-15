@@ -1,9 +1,8 @@
-![header](https://capsule-render.vercel.app/api?color=gradient&custom&text=Hello%World!&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?color=gradient&custom&text=Hello%World!&animation=blinking)
 
-<p align="center">
-# Allow me to introduce myself:
+<h2>Allow me to introduce myself:</h2>
 
-<p align="center">🧰VALIDATOR🦉<br>
+🧰VALIDATOR🦉<br>
 🖥️NODERUNNER🐛<br>
 🍻AIRDROP hunter🐗<br>
 https://t.me/alex_it_prof<br>

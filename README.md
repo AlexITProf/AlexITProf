@@ -2,15 +2,9 @@
 
 Allow me to introduce myself:
 
-
-🧰VALIDATOR🦉
-
-🖥️NODERUNNER🐛
-
-🍻AIRDROP hunter🐗
-
-https://t.me/alex_it_prof
-
-https://twitter.com/AlexITPROF1
-
-https://www.instagram.com/alex_it_prof/
+🧰VALIDATOR🦉<br>
+🖥️NODERUNNER🐛<br>
+🍻AIRDROP hunter🐗<br>
+https://t.me/alex_it_prof<br>
+https://twitter.com/AlexITPROF1<br>
+https://www.instagram.com/alex_it_prof/<br>

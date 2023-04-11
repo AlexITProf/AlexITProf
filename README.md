@@ -3,8 +3,8 @@
 <h2>Allow me to introduce myself:</h2>
 
 🧰VALIDATOR🦉<br>
-🖥️NODERUNNER🐛<br>
-🍻AIRDROP hunter🐗<br>
+🖥️AMBASSADOR🐛<br>
+🍻TEAM LEADER🐗<br>
 https://t.me/alex_it_prof<br>
 https://twitter.com/AlexITPROF1<br>
 https://www.instagram.com/alex_it_prof/<br>

@@ -2,11 +2,12 @@
 
 <h2>Allow me to introduce myself:</h2>
 
-🧰VALIDATOR🦉<br>
-🖥️AMBASSADOR🐛<br>
-🍻TEAM LEADER🐗<br>
+🧰Block-Chain VALIDATOR🦉<br>
+🖥️Projects AMBASSADOR🐛<br>
+🍻Team LEADER🐗<br>
 https://t.me/alex_it_prof<br>
 https://twitter.com/AlexITPROF1<br>
+[🅰🅻🅴🆇ⒾⓉ](https://discord.com/channels/%F0%9F%85%B0%F0%9F%85%BB%F0%9F%85%B4%F0%9F%86%87%E2%92%BE%E2%93%89#8496)
 https://www.instagram.com/alex_it_prof/<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexITProf&show_icons=true&theme=radical)

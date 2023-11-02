@@ -11,7 +11,7 @@ https://www.instagram.com/alex_it_prof/<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexITProf&show_icons=true&theme=radical)
 
-![Snake animation]( https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg )
+![Snake animation]( https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg )
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&section=footer&color=gradient&custom&text=Welcome!&animation=scaleIn)
 

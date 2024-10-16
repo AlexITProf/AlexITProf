@@ -2,8 +2,6 @@
 
 <h2>Allow me to introduce myself:</h2>
 
-[![Transformers_Magic-Cube_Light_Logo_PNG](https://github.com/user-attachments/assets/451ea5be-cde1-4582-9869-d2d5e460f0bd)](https://tfsc.io)<br>
-
 🧰Block-Chain VALIDATOR🦉<br>
 🖥️Projects AMBASSADOR🐛<br>
 🍻Team LEADER🐗<br>

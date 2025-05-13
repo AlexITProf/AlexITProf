@@ -2,9 +2,6 @@
 
 <h2>Allow me to introduce myself:</h2>
 
-![image](https://github.com/user-attachments/assets/722e2e49-31f1-47e6-8e21-42b2b6d8aecc) 
-
-🪿Aztech Guardian<br>
 🧰Block-Chain VALIDATOR🦉<br>
 🖥️Projects AMBASSADOR🐛<br>
 🍻Team LEADER🐗<br>

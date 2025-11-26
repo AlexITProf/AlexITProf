@@ -10,7 +10,7 @@
 [Telegram](https://t.me/alex_it_prof)<br>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexITProf&show_icons=true&theme=radical)
+
 
 ![Snake animation]( https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg )
 
